@@ -8,6 +8,9 @@ Email: tungcao0130@gmail.com<br/>
 Skype: live:tungcao0130<br/>
 Facebook: https://fb.com/tungcao0<br/>
 
+# Tutorial building a REST API with Lumen
+https://mrtungcao.wordpress.com/2021/04/26/building-a-rest-api-with-lumen-laravel/
+
 # Lumen PHP Framework
 
 [![Build Status](https://travis-ci.org/laravel/lumen-framework.svg)](https://travis-ci.org/laravel/lumen-framework)
