@@ -1,12 +1,12 @@
 # Overview
-I'm a Full-stack developer.
-My major is Mobile (React Native).
-Front-End: react, laravel, HTML, bootstrap
-Back-End API: I using PHP,  jquery, ajax
-
-Email: tungcao0130@gmail.com
-Skype: live:tungcao0130
-Facebook: https://fb.com/tungcao0
+I'm a Full-stack developer.<br/>
+My major is Mobile (React Native).<br/>
+Front-End: react, laravel, HTML, bootstrap<br/>
+Back-End API: I using PHP,  jquery, ajax<br/>
+<br/>
+Email: tungcao0130@gmail.com<br/>
+Skype: live:tungcao0130<br/>
+Facebook: https://fb.com/tungcao0<br/>
 
 # Lumen PHP Framework
 
